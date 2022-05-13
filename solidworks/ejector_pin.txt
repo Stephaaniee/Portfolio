@@ -1,0 +1,1 @@
+﻿"pin shaft diameter"= .87
